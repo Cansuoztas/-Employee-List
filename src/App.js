@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-
 import Cards from "./components/cards/Card";
 import data from "./data";
 import "./components/cards/Card.css";

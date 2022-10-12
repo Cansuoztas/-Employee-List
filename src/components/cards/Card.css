@@ -18,8 +18,8 @@
 }
 
 .card_style img {
-  border: 2px solid hsla(0, 98%, 16%, 0.644);
-  box-shadow: 3px 3px 7px rgba(48, 10, 10, 0.493);
+  border: 2px solid hsla(0, 94%, 20%, 0.644);
+  box-shadow: 3px 3px 7px rgba(37, 7, 7, 0.527);
   border-radius: 50%;
   width: 6rem;
 }  
